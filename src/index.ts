@@ -1,8 +1,6 @@
 import { GLTFViewer } from './GLTFViewer'
 import { createStreamElementsEventQueue, StreamEvent } from './StreamElementsEventQueue';
 
-
-
 const LOCAL_STORAGE_AUDIO_ENABLED_KEY = 'audio_enabled'
 
 const urlParams = new URLSearchParams(window.location.search);
