@@ -1,0 +1,7 @@
+/*! https://mths.be/utf8js v2.1.2 by @mathias */
+
+/**
+ * @license
+ * Copyright 2010-2021 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
